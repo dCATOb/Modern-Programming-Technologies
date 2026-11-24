@@ -1,0 +1,6 @@
+*.class
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Task.docx
